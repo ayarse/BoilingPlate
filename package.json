@@ -1,0 +1,17 @@
+{
+  "name": "myboiler-ayaz",
+  "version": "0.0.1",
+  "description": "Boilerplate for all kinds of projects",
+  "main": "index.html",
+  "author": "ayaz",
+  "license": "",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-less": "latest",
+    "gulp-concat": "latest",
+    "gulp-uglify": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-watch": "latest",
+    "bower": "latest"
+  }
+}

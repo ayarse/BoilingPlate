@@ -1,0 +1,23 @@
+{
+  "name": "MyBoiler",
+  "version": "0.0.1",
+  "authors": [
+    "ayaz"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#~5.4.7",
+    "jquery": "~2.1.1",
+    "modernizr": "latest",
+    "font-awesome": "latest"
+  }
+}
